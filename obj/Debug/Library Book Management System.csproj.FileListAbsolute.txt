@@ -1,0 +1,7 @@
+C:\Users\Yousuf Alostah\Desktop\asp.net(code)\C#\Library Book Management System\Library Book Management System\bin\Debug\Library Book Management System.exe.config
+C:\Users\Yousuf Alostah\Desktop\asp.net(code)\C#\Library Book Management System\Library Book Management System\bin\Debug\Library Book Management System.exe
+C:\Users\Yousuf Alostah\Desktop\asp.net(code)\C#\Library Book Management System\Library Book Management System\bin\Debug\Library Book Management System.pdb
+C:\Users\Yousuf Alostah\Desktop\asp.net(code)\C#\Library Book Management System\Library Book Management System\obj\Debug\Library Book Management System.csproj.AssemblyReference.cache
+C:\Users\Yousuf Alostah\Desktop\asp.net(code)\C#\Library Book Management System\Library Book Management System\obj\Debug\Library Book Management System.csproj.CoreCompileInputs.cache
+C:\Users\Yousuf Alostah\Desktop\asp.net(code)\C#\Library Book Management System\Library Book Management System\obj\Debug\Library Book Management System.exe
+C:\Users\Yousuf Alostah\Desktop\asp.net(code)\C#\Library Book Management System\Library Book Management System\obj\Debug\Library Book Management System.pdb
